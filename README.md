@@ -7,7 +7,7 @@
 
 - Atualmente crio plugins para uso próprio, e para aprimorar meus conhecimentos na área. 
 
-# **Linguagens de programação**
+# **Minhas linguagens que eu mais uso**
 <div>
 <a href="https://github.com/MrJoel">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJoel&layout=compact&langs_count=7&theme=dracula"/>
